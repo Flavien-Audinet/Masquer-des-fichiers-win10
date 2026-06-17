@@ -1,6 +1,10 @@
 # Masquer-des-fichiers-win10
-Cacher des fichiers indesirable sous win 10 en 1 clic
+Masquage de fichiers indésirables sous Windows 10 en un clic
 
-Modifier le .bat pour selectionner la localisation ou doit s'executer le script et les exentions de fichier
+Fonctionnalité : Cache les fichiers indésirables en un seul clic.
+Personnalisation : Modification du script .bat pour :
 
-Derniere maj le 18/12/2024
+Choisir le dossier d'exécution.
+Définir les extensions de fichiers à masquer.
+
+Dernière mise à jour : 18 décembre 2024
